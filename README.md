@@ -1,3 +1,1 @@
--Created a dynamic Flutter app in Android Studio showcasing Chicago’s neighborhoods, events, and sports with custom UI elements, animated transitions, and interactive content screens.
--Integrated dynamic content updates, trivia features, and ensured a cohesive theme with customized text styling and background design for a polished user experience.
--This repository only includes the dart files.
+I created a dynamic Flutter app in Android Studio showcasing Chicago’s neighborhoods, events, and sports with custom UI elements, animated transitions, and interactive content screens. In addition, I integrated dynamic content updates, trivia features, and ensured a cohesive theme with customized text styling and background design for a polished user experience. Lastly, this repository only includes the dart files.
